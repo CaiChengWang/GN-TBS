@@ -16,7 +16,9 @@ To install the necessary packages, you can use the following command:
 
 ```bash
 pip install -r requirements.txt
+```
 Alternatively, you can manually install the dependencies:
+```bash
 pip install matplotlib==3.7.1
 pip install numpy==1.23.5
 pip install pandas==1.5.3
